@@ -64,6 +64,12 @@ DEFAULT_APPS = [
      "health": "https://voicebox-guide.onrender.com/healthz",
      "note": "Static guide. The lightest of the lot.",
      "accent": "#F0603C"},
+    {"id": "craft", "name": "Gravrel Craft", "tag": "AI Builder",
+     "desc": "Type a prompt, get a complete 3D website generated in seconds.",
+     "url": "https://gravrel-craft.onrender.com",
+     "health": "https://gravrel-craft.onrender.com/healthz",
+     "note": "Needs a funded model key (PROVIDER/MODEL/LLM_API_KEY) to generate.",
+     "accent": "#F0A202"},
 ]
 
 
